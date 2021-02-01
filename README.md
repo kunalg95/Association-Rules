@@ -2,5 +2,5 @@
 Market Basket Analysis Problem
 
 
-Used for finding patterns from top to bottom(i.e in columns)
-Used Apriori Algorithm
+1. Used for finding patterns from top to bottom(i.e in columns)
+2. Used Apriori Algorithm
